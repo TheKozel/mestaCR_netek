@@ -45,6 +45,21 @@
           49.9666713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nazev": "Štěpánov",
+        "popisek": "Snad nejdelší vesnice Moravy, kolem velmi rozbité cesty. - Matěj Kozmík, 2026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.220412,
+          49.684039
+        ]
+      }
     }
   ]
 }
